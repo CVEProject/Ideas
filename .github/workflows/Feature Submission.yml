@@ -8,5 +8,5 @@ jobs:
       - name: Add New Issues to Issue Triage Board
         uses: peter-evans/create-or-update-project-card@866533e2ae61f13c35fd1d374049713fab43c729 # current tag: v2
         with:
-          project-name: CVE Automation Upgrade Feature/Capability Tracker
+          project-name: CVE Program Automation Upgrade Feature/Capability Tracker
           column-name: Submitted
