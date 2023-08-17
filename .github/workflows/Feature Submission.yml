@@ -5,8 +5,8 @@ jobs:
   createCard:
     runs-on: ubuntu-latest
     steps:
-      - name: Add New Feature Request Feature/Capability Tracker
+      - name: Add New Feature Request FeatureTracker
         uses: peter-evans/create-or-update-project-card@866533e2ae61f13c35fd1d374049713fab43c729 # current tag: v2
         with:
-          project-name: CVE Program Automation Upgrade Feature/Capability Tracker
+          project-name: CVE Program Automation Upgrade Feature Tracker
           column-name: Submitted
