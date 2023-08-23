@@ -3,7 +3,7 @@ This repository will be used exclusively to receive and manage suggestions from 
 
 Innovative ideas and requested features can include programmatic rule/policy suggestions as well as innovative automation features that would support more efficient CVE Record publication and use.
 
-Note that this is not meant as a “bug reporting” mechanism of the existing CVE Services/Website or other fielded components (e.g., CVE Services, Bulk Download, CVE JSON 5.0 schema definition). Reporting bugs of existing CVE Program automation components should be posted on the “Issues” boards associated with the appropriate application repository under the [CVE Program GitHub Project](https://github.com/CVEProject).
+Note that this is not meant as a “bug reporting” mechanism of the existing CVE Services/CVE Website or other fielded components (e.g., CVE Services, Bulk Download, CVE JSON 5.0 schema definition). Reporting bugs of existing CVE Program automation components should be posted on the “Issues” boards associated with the appropriate application repository under the [CVE Program GitHub Project](https://github.com/CVEProject).
 
 # Submitting a CVE Program Innovative Idea or New Feature Request
 To submit an innovative idea/feature request, follow these steps:   
