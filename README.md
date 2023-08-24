@@ -13,7 +13,7 @@ To submit an innovative idea/feature request, follow these steps:
 3. Click the “New Issue” button in the upper-right corner of the Issues page.
 4. The “CVE Program New Automation Feature Request” page pops-up.
 5. Click the “Get started” button.
-6. The new issue tempate pop-up.
+6. The new issue template pops-up.
 7. In the “Title” field, enter a title that briefly describes your innovative idea or suggested feature. 
 8. In the “Write” field, follow the instructions provided in the template.
 9. Once your submission is complete, click the “Submit new issue” button at the bottom of the form.
