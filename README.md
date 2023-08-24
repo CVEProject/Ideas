@@ -18,5 +18,5 @@ To submit an innovative idea/feature request, follow these steps:
 8. In the “Write” field, follow the instructions provided in the template.
 9. Once your submission is complete, click the “Submit new issue” button at the bottom of the form.
 
-# Processing of a CVE Program Innovative Idea or New Feature Request
+# Processing of a CVE Program Innovative Ideas or New Feature Requests
 Once the innovative idea or new feature is submitted, it will be reviewed by the [CVE Board](https://www.cve.org/ProgramOrganization/Board) (or its designated working group). The disposition of the innovative idea or new feature request can be tracked on the [CVE Program Innovative Ideas/Feature Tracker](https://github.com/orgs/CVEProject/projects/14/views/1). Questions about the innovative ideas or new features can be directed via email to the [CVE Program Automation Working Group](mailto:AWG@cve-cwe-programs.groups.io).
