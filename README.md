@@ -8,9 +8,13 @@ Note that this is not meant as a bug reporting mechanism for the existing CVE Se
 # Submitting a CVE Program Innovative Idea or New Feature Request
 To submit an innovative idea/feature request, follow these steps:   
    
-1. Use the “Issues” board tab for this CVE-Program-Innovation-Ideas-and-Feature-Requests repository located in the upper left of the page.  
-2. Fill-out the “Issues Template” with a short description of the suggested feature. The description should include a rationale statement that includes the overall benefit to the program and which audience will benefit from the innovative idea or new feature (e.g., CNAs, downstream users of CVE data, general public).     
-3. Add additional notes or suggestions that may help with the prioritization, design, and/or implementation in the “Notes” section (optional).  
+1. Click the “[Issues](https://github.com/CVEProject/CVE-Program-Innovation-Ideas-and-Feature-Requests/issues)” tab located directly under the title of this repository in the upper left corner of the page.  
+2. The Issues page pops-up. (Previously submitted issues will be viewable on this page.)
+3. Click the “New Issue” button in the upper-right corner of the Issues page.
+4. GitHub’s new issue form pops-up.
+5. In the “Title” field, enter a title that briefly describes your innovative idea or suggested feature. 
+6. In the “Write” field, follow the instructions provided in the template.
+7. Once your submission is complete, click the “Submit new issue” button at the bottom of the form.
 
 # Processing of a CVE Program Innovative Idea or New Feature Request
 Once the innovative idea or new feature is submitted, it will be reviewed by the [CVE Board](https://www.cve.org/ProgramOrganization/Board) (or its designated working group). The disposition of the innovative idea or new feature request can be tracked on the [CVE Program Innovative Ideas/Feature Tracker](https://github.com/orgs/CVEProject/projects/14/views/1). Questions about the innovative ideas or new features can be directed via email to the [CVE Program Automation Working Group](mailto:AWG@cve-cwe-programs.groups.io).
