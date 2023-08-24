@@ -11,10 +11,12 @@ To submit an innovative idea/feature request, follow these steps:
 1. Click the “[Issues](https://github.com/CVEProject/CVE-Program-Innovation-Ideas-and-Feature-Requests/issues)” tab located directly under the title of this repository in the upper left corner of the page.  
 2. The Issues page pops-up. (Previously submitted issues will be viewable on this page.)
 3. Click the “New Issue” button in the upper-right corner of the Issues page.
-4. GitHub’s new issue form pops-up.
-5. In the “Title” field, enter a title that briefly describes your innovative idea or suggested feature. 
-6. In the “Write” field, follow the instructions provided in the template.
-7. Once your submission is complete, click the “Submit new issue” button at the bottom of the form.
+4. The “CVE Program New Automation Feature Request” page pops-up.
+5. Click the “Get started” button.
+6. The new issue tempate pop-up.
+7. In the “Title” field, enter a title that briefly describes your innovative idea or suggested feature. 
+8. In the “Write” field, follow the instructions provided in the template.
+9. Once your submission is complete, click the “Submit new issue” button at the bottom of the form.
 
 # Processing of a CVE Program Innovative Idea or New Feature Request
 Once the innovative idea or new feature is submitted, it will be reviewed by the [CVE Board](https://www.cve.org/ProgramOrganization/Board) (or its designated working group). The disposition of the innovative idea or new feature request can be tracked on the [CVE Program Innovative Ideas/Feature Tracker](https://github.com/orgs/CVEProject/projects/14/views/1). Questions about the innovative ideas or new features can be directed via email to the [CVE Program Automation Working Group](mailto:AWG@cve-cwe-programs.groups.io).
